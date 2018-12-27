@@ -1,7 +1,7 @@
-# Paginator 
+# Paginator(el, opt) 
 > 基于jqPaginator的js版本
 
-### 基本参数
+### {opt}基本参数
 | 参数名 | 解释 | 类型 | 默认值 | 
 | :------: | :------: | :------: |:------: |
 | wrapper | 给Paginator加个wrapper | Sring | '' |
