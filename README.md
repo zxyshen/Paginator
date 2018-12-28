@@ -10,8 +10,8 @@
 | next | 下一页按钮的html | Sring | ```<li class="prev"><a href="###">下一页</a></li>``` |
 | last | 最后一页按钮的html | Sring | ```<li class="prev"><a href="###">最后一页</a></li>``` |
 | page | 每页按钮的html | Sring | ```<li class="prev"><a href="###">{page}</a></li>``` |
-| totalPages | 总页数 = totalPages / pageSize | Number | 0 |
-| totalPages | 数据总数 | Number | 0 |
+| totalPages | 总页数 = totalCounts / pageSize | Number | 0 |
+| totalCounts | 数据总数 | Number | 0 |
 | pageSize | 每页显示的数据数 | Number | 0 |
 | currentPage | 当前页 | Number | 1 |
 | visiblePages | 可见页 | Number | 7 |
